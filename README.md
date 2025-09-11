@@ -53,7 +53,7 @@
   <tr align="center">
     <td><img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
     <td><img alt="Express" src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express.js</td>
-    <td><img alt="EJS" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ejs.svg" width="48"/><br/>EJS (templating)</td>
+    <td><img alt="EJS" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ejs.svg" width="48"/><br/>EJS</td>
     <td><img alt="REST" src="https://img.shields.io/badge/REST-APIs-blue?style=flat-square" width="96"/><br/>RESTful APIs</td>
   </tr>
 </table>
