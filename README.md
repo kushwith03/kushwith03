@@ -101,7 +101,7 @@
   Full-stack blog platform with auth & CRUD — Node.js, Express, EJS, PostgreSQL — Deployed on Render
 
 - [**DSA-Java**](https://github.com/kushwith03/DSA-Java)  
-  Organized Java solutions for algorithm practice (Arrays, Linked Lists, Trees, DP)
+  Organized Java solutions for algorithm practice 
 
 - **Student Project Hub** *(coming soon)* — React + Node/Express + PostgreSQL
 
