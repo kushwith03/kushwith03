@@ -6,12 +6,6 @@
 
 ---
 
-## 🔭 Currently
-- 🚀 Building **Student Project Hub** — React (frontend) + Node/Express (backend) + PostgreSQL *(repo/demo coming soon)*  
-- 🧑‍💻 Practicing **DSA (Java)**, System Design basics & Web Dev interview prep
-
----
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/kushwith03" target="_blank">
