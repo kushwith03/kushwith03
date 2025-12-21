@@ -2,7 +2,7 @@
 
 🎓 Final-year B.E. Computer Science & Engineering (Data Science) — RNS Institute of Technology (RNSIT), Bangalore  
 💼 Aspiring **Software / Full-Stack Developer** — preparing for internships in Bangalore & remote  
-📫 Reach me: **kushwith03@gmail.com** — [Resume](https://drive.google.com/file/d/11bHVIXwPxp6rzIJiLxo0U981WZSfJUDW/view?usp=sharing)
+📫 Reach me: **kushwith03@gmail.com** — [Resume](https://drive.google.com/file/d/13ZcbNHx3MFlN8umgBhbqzUPzZne9_iTI/view?usp=sharing)
 
 ---
 
