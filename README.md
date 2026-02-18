@@ -1,138 +1,165 @@
-# Hi 👋, I'm R Khushwith Kumar
+<div align="center">
 
-🎓 Final-year B.E. Computer Science & Engineering (Data Science) — RNS Institute of Technology (RNSIT), Bangalore  
-💼 Aspiring **Software / Full-Stack Developer** — preparing for internships in Bangalore & remote  
-📫 Reach me: **kushwith03@gmail.com** — [Resume](https://drive.google.com/file/d/1YmMLyh2b_xhjEWa_Oe6ZmGFuJ4u5HZTq/view?usp=sharing)
+  <h1>R Khushwith Kumar</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=3591F7&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer+(MERN);Backend+Developer;DSA+(Java)+%7C+Problem+Solving" alt="Typing SVG" />
+
+  <p>
+    <b>Bengaluru, India</b> • <b>Open to Internships</b>
+  </p>
+
+  <p>
+    Final-year <b>CSE (Data Science)</b> student at <b>RNS Institute of Technology (RNSIT)</b>.<br/>
+    Focused on <b>Java</b>, <b>DSA</b>, and building <b>modern full-stack web applications</b>.
+  </p>
+
+  <br/>
+
+  <p>
+    <a href="https://rkhushwith-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://drive.google.com/file/d/10ct2loRhHLgXQgokZtIYv4Yh3nEWApc3/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-111111?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="mailto:kushwith03@gmail.com">
+      <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/kushwith03/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/kushwith_03/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-111111?style=flat&logo=leetcode&logoColor=white"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/kushwith03" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kushwith03/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+## 🚀 Quick Snapshot
+
+- 🎓 Final Year **B.E. CSE (Data Science)** @ **RNSIT, Bengaluru**
+- 📌 CGPA: **8.41 / 10.0**
+- 💻 Primary Stack: **Java • React • Node.js • Express • PostgreSQL**
+- 🧠 Strong in **DSA + OOP + Backend Development**
+- 🏆 Solved **200+ coding problems** (LeetCode)
+
+---
+
+## ⚡ About Me
+
+I’m a final-year **Computer Science & Engineering (Data Science)** student at **RNS Institute of Technology**, Bengaluru.  
+I focus on becoming a strong software engineer by mastering **DSA in Java** and building scalable backend systems.
+
+I enjoy backend engineering, REST API design, database integration, and deployment workflows.  
+Currently preparing for **Software Developer / Full-Stack Internship roles**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp&theme=dark" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql&theme=dark" />
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel,render&theme=dark" />
+
+---
+
+## 💎 Strengths
+
+- Strong Java fundamentals (OOP + Collections + clean coding)
+- DSA-based problem solving mindset (patterns + optimization)
+- Backend development (Node.js, Express, REST APIs)
+- Database integration (PostgreSQL, MongoDB, MySQL)
+- Deployment experience (Render, Vercel)
+- Communication + team collaboration skills
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Microsoft Certified: **Azure Data Fundamentals (DP-900)**
+- Microsoft Certified: **Azure AI Fundamentals (AI-900)**
+- Solved **200+ DSA problems** (LeetCode)
+- Participated in **VTU State-Level Powerlifting Championship**
+- Represented in multiple **Kabaddi tournaments**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushwith03&theme=tokyonight" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushwith03&theme=tokyonight" width="400"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushwith03&theme=tokyonight" width="400"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushwith03&theme=tokyonight" width="400"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kushwith03&theme=tokyonight&utcOffset=5.5" width="400"/>
+
+</div>
+
+---
+
+## 🧠 LeetCode Activity
+
+<div align="center">
   <a href="https://leetcode.com/u/kushwith_03/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://leetcard.jacoblin.cool/kushwith_03?theme=dark&font=Inter&ext=heatmap" width="500" />
   </a>
-</p>
-
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-<table>
-  <tr align="center">
-    <td><img alt="Java" src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
-    <td><img alt="C++" src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++</td>
-    <td><img alt="C" src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
-    <td><img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>JavaScript</td>
-    <td><img alt="Python" src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
-    <td><img alt="R" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" width="48"/><br/>R (basics)</td>
-  </tr>
-</table>
-
-### Frontend
-<table>
-  <tr align="center">
-    <td><img alt="HTML5" src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5</td>
-    <td><img alt="CSS3" src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3</td>
-    <td><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
-    <td><img alt="React" src="https://skillicons.dev/icons?i=react" width="48"/><br/>React</td>
-    <td><img alt="jQuery" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jquery.svg" width="48"/><br/>jQuery</td>
-    <td><img alt="DOM" src="https://img.shields.io/badge/DOM-HTML5?style=flat-square" width="96"/><br/>JavaScript DOM</td>
-  </tr>
-</table>
-
-### Backend
-<table>
-  <tr align="center">
-    <td><img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
-    <td><img alt="Express" src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express.js</td>
-    <td><img alt="EJS" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ejs.svg" width="48"/><br/>EJS</td>
-    <td><img alt="REST" src="https://img.shields.io/badge/REST-APIs-blue?style=flat-square" width="96"/><br/>RESTful APIs</td>
-  </tr>
-</table>
-
-### Databases
-<table>
-  <tr align="center">
-    <td><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
-    <td><img alt="Postgres" src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL</td>
-    <td><img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
-    <td><img alt="SQL" src="https://img.shields.io/badge/SQL-Query-lightgrey?style=flat-square" width="96"/><br/>SQL</td>
-  </tr>
-</table>
-
-### Tools & Platforms
-<table>
-  <tr align="center">
-    <td><img alt="Git" src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
-    <td><img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
-    <td><img alt="Postman" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="48"/><br/>Postman</td>
-    <td><img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-DB-blue?style=flat-square" width="96"/><br/>pgAdmin</td>
-  </tr>
-  <tr align="center">
-    <td><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
-    <td><img alt="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/intellijidea.svg" width="48"/><br/>IntelliJ IDEA</td>
-    <td><img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel</td>
-    <td><img alt="Render" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" width="48"/><br/>Render</td>
-  </tr>
-  <tr align="center">
-    <td><img alt="GitHub Pages" src="https://img.shields.io/badge/GH_Pages-Deploy-green?style=flat-square" width="96"/><br/>GitHub Pages</td>
-    <td><img alt="CLI" src="https://img.shields.io/badge/CLI-Terminal-black?style=flat-square" width="96"/><br/>CLI</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Concepts & Practices
-- OOP, Data Structures & Algorithms, REST, SDLC, Agile (Basics)
-
-
----
-
-## 🚀 Featured Projects
-- [**Blog App**](https://github.com/kushwith03/blogspace)  
-  Full-stack blog platform with auth & CRUD — Node.js, Express, EJS, PostgreSQL — Deployed on Render
-
-- [**DSA-Java**](https://github.com/kushwith03/DSA-Java)  
-  Organized Java solutions for algorithm practice 
-
-- **Student Project Hub** *(coming soon)* — React + Node/Express + PostgreSQL
-
-
----
-
-## 📊 GitHub Stats & Contribution
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kushwith03&show_icons=true&theme=radical" height="150"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwith03&layout=compact&theme=radical" height="150"/>
-</p>
+</div>
 
 <p align="center">
-  <img alt="GitHub Contribution Calendar" src="https://ghchart.rshah.org/kushwith03" />
+  <i>Practicing DSA daily with focus on patterns, optimization, and interview readiness.</i>
 </p>
 
----
-
-## 🏆 LeetCode Stats
-<p align="center">
-  <img alt="LeetCode card" src="https://leetcard.jacoblin.cool/kushwith_03?theme=dark&font=Karma&ext=heatmap" />
-</p>
+<br/>
 
 ---
+## 🤝 Connect With Me
 
-## 📣 What I'm Looking For
-- Internships (Software / Full-Stack) — startups & product companies  
-- Roles to build full stack features, learn production systems, and sharpen algorithms
+<div align="center">
+  <a href="mailto:kushwith03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kushwith03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/kushwith03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/kushwith_03/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://rkhushwith-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 
----
 
-## ⚡ Fun Fact
-I enjoy turning small ideas into web apps and improving at algorithmic problem solving — always learning and shipping 🚀
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3591F7&height=120&section=footer"/>
+</div>
