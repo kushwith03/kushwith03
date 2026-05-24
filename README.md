@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=706fd3&height=200&section=header&text=R%20Khushwith%20Kumar&fontSize=50&fontAlignY=35&animation=twinkling" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A97CF8&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer+(MERN);AI+Integration+%26+LLM+Apps;Java+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A97CF8&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer+(MERN);AI+Integration+%26+LLM+Apps;Backend+Engineering+•+MERN+•+AI" alt="Typing SVG" />
 
   <p>
     <b>Bengaluru, India</b> • <b>Software Developer</b>
