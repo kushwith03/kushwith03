@@ -43,15 +43,15 @@ I am a **Computer Science Graduate** (8.6 CGPA) from RNSIT, Bengaluru. I enjoy b
 ### 📝 [InstaResume — AI Resume Generator](https://github.com/kushwith03/ai-resume-builder)
 *React.js • Node.js • Tailwind CSS • Gemini AI*
 - Built a real-time resume builder with dynamic form handling and optimized state updates.
-- Integrated **Google Gemini AI** for ATS-optimized content generation.
+- Integrated **Google Gemini AI** for keyword-optimized resume generation.
 - Implemented client-side **PDF export** and smooth live preview rendering.
 - [**Live Demo**](https://ai-resume-builder-sigma-jet.vercel.app) • [**GitHub**](https://github.com/kushwith03/ai-resume-builder)
 
 ### 🌐 [BlogSpace — Full-Stack Blog Platform](https://github.com/kushwith03/blogspace)
 *Node.js • Express.js • PostgreSQL • JWT*
-- Engineered RESTful APIs using **MVC architecture** for scalable content management.
+- Developed RESTful APIs using **MVC architecture** for scalable content management.
 - Implemented secure **JWT authentication** and protected CRUD operations.
-- Optimized PostgreSQL database for high-performance user management.
+- Managed PostgreSQL database with relational modeling for secure user management.
 - [**Live Demo**](https://blogspace-phi-two.vercel.app) • [**GitHub**](https://github.com/kushwith03/blogspace)
 
 ### 🏎️ [Autonomous Vehicle Simulation](https://github.com/kushwith03/Autonomous-Vehicle)
