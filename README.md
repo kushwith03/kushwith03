@@ -57,7 +57,7 @@ I am a **Computer Science Graduate** (8.6 CGPA) from RNSIT, Bengaluru. I enjoy b
 ### 🏎️ [Autonomous Vehicle Simulation](https://github.com/kushwith03/Autonomous-Vehicle)
 *Python • PyTorch • CARLA • Computer Vision*
 - Developed an end-to-end driving pipeline using behavioral cloning via CNNs.
-- Trained a **PyTorch autoencoder** with **<50ms inference latency** on 8,000+ images.
+- Trained a **PyTorch autoencoder** with **<50ms inference latency** on ~8K combined dataset images.
 - Reduced navigation error by **30%** in complex simulation environments.
 - [**GitHub Repository**](https://github.com/kushwith03/Autonomous-Vehicle)
 
