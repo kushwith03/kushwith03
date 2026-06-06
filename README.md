@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/LeetCode-111111?style=flat&logo=leetcode&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://drive.google.com/file/d/1Kw3-kvo4po1pl3qPoM32hKQvtd9xwiYo/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1rwW-rMO64I4ZwNR4NbUCu5IDRmCElqGf/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Resume-111111?style=flat&logo=adobeacrobatreader&logoColor=white"/>
     </a>
     &nbsp;
