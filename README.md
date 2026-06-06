@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
     </a>
     &nbsp;
-    <a href="https://leetcode.com/u/kushwith_03/" target="_blank">
+    <a href="https://leetcode.com/kushwith_03/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-111111?style=flat&logo=leetcode&logoColor=white"/>
     </a>
     &nbsp;
@@ -47,7 +47,7 @@ With a strong foundation in **Java & DSA** (250+ LeetCode), I bring a discipline
 - Engineered a real-time resume builder with dynamic form handling and optimized state updates.
 - Integrated **Google Gemini AI** for keyword-optimized resume generation.
 - Implemented client-side **PDF export** and smooth live preview rendering.
-- [**Live Demo**](https://ai-resume-builder-sigma-jet.vercel.app) • [**GitHub**](https://github.com/kushwith03/ai-resume-builder)
+- [**Live Demo**](https://ai-resume-builder-sigma-jet.vercel.app/home) • [**GitHub**](https://github.com/kushwith03/ai-resume-builder)
 
 ### 🌐 [BlogSpace — Full-Stack Blog Platform](https://github.com/kushwith03/blogspace)
 *Node.js • Express.js • PostgreSQL • JWT*
@@ -105,7 +105,7 @@ With a strong foundation in **Java & DSA** (250+ LeetCode), I bring a discipline
 ## 🧠 LeetCode Activity
 
 <div align="center">
-  <a href="https://leetcode.com/u/kushwith_03/" target="_blank">
+  <a href="https://leetcode.com/kushwith_03/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/kushwith_03?theme=dark&font=Inter&ext=heatmap" width="500" />
   </a>
 </div>
