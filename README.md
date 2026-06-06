@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=706fd3&height=200&section=header&text=R%20Khushwith%20Kumar&fontSize=50&fontAlignY=35&animation=twinkling" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A97CF8&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer+(MERN);AI+Integration+%26+LLM+Apps;Backend+Engineering+•+MERN+•+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A97CF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Engineer+(MERN);Backend+Developer;AI+Integration+%26+LLM+Apps" alt="Typing SVG" />
 
   <p>
-    <b>Bengaluru, India</b> • <b>Software Developer</b>
+    <b>Bengaluru, India</b> • <b>Software Engineer</b>
   </p>
 
   <p>
@@ -34,7 +34,9 @@
 
 ## ⚡ About Me
 
-I am a **Computer Science Graduate** (8.6 CGPA) from RNSIT, Bengaluru. I enjoy building performant backend systems and integrating AI into practical applications. With a strong foundation in **Java & DSA** (250+ LeetCode), I focus on writing clean, scalable code and designing robust architectures.
+I am a **Computer Science Graduate** (8.6 CGPA) from RNSIT, Bengaluru, specialized in building scalable full-stack applications and production-ready backend systems. I focus on writing clean, maintainable code and integrating AI into practical digital products. 
+
+With a strong foundation in **Java & DSA** (250+ LeetCode), I bring a disciplined, algorithmic approach to system design and problem-solving.
 
 ---
 
@@ -42,7 +44,7 @@ I am a **Computer Science Graduate** (8.6 CGPA) from RNSIT, Bengaluru. I enjoy b
 
 ### 📝 [InstaResume — AI Resume Generator](https://github.com/kushwith03/ai-resume-builder)
 *React.js • Node.js • Tailwind CSS • Gemini AI*
-- Built a real-time resume builder with dynamic form handling and optimized state updates.
+- Engineered a real-time resume builder with dynamic form handling and optimized state updates.
 - Integrated **Google Gemini AI** for keyword-optimized resume generation.
 - Implemented client-side **PDF export** and smooth live preview rendering.
 - [**Live Demo**](https://ai-resume-builder-sigma-jet.vercel.app) • [**GitHub**](https://github.com/kushwith03/ai-resume-builder)
